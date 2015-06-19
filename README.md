@@ -1,6 +1,6 @@
 # mixer
 
-A fork of [StayPuft](https://github.com/dlecina/StayPuft) which is a form of the default theme for [Ghost](https://github.com/tryghost/ghost/).
+A fork of [StayPuft](https://github.com/dlecina/StayPuft) which is a fork of the default theme for [Ghost](https://github.com/tryghost/ghost/).
 
 ## Features
 
