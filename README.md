@@ -10,7 +10,6 @@ A fork of [StayPuft](https://github.com/dlecina/StayPuft) which is a fork of the
 * Support for [Font Awesome](https://github.com/FortAwesome/Font-Awesome).
 * Basic support for [slidr.js](https://github.com/bchanx/slidr).
 * Syntax highlighting using [Prism](https://github.com/LeaVerou/prism/).
-* [Google Analytics](http://www.google.com/analytics/).
 
 ## Demo
 
@@ -33,19 +32,7 @@ sudo git clone https://github.com/bmitch/mixer
 
 * Replace `assets/favicon.png` with your own favicon, or remove for the default Ghost favicon.
 * Modify `partials/disqus.hbs` with your shortname.
-* Modify `partials/google-analytics.hbs` with your own snippet.
 * Replace `partials/copyright.hbs` with your own disclaimer.
 * Modify `partials/sidebar-external.hbs` with your own external links.
-* After configuration, you may have to restart for all changes to take place.
+* After configuration, you may have to restart for all changes to take place. ```service ghost restart```
 
-## Copyright & License
-
-Original Copyright (c) 2013-2014 Ghost Foundation - Released under The MIT License.  
-Modifications Copyright (c) 2014 David Lecina Fuentes - Released under The MIT License.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
