@@ -10,7 +10,6 @@ A fork of [StayPuft](https://github.com/dlecina/StayPuft) which is a fork of the
 * Support for [Font Awesome](https://github.com/FortAwesome/Font-Awesome).
 * Basic support for [slidr.js](https://github.com/bchanx/slidr).
 * Syntax highlighting using [Prism](https://github.com/LeaVerou/prism/).
-* [Google Analytics](http://www.google.com/analytics/).
 
 ## Demo
 
